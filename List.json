@@ -1,0 +1,50 @@
+{
+  "tournaments": [
+    {
+      "id": 1,
+      "name": "Current Tournament",
+      "matches": [
+        {
+          "id": 1,
+          "title": "Quarter Finals - Game 1",
+          "round": "Quarter Finals",
+          "game": 1,
+          "team1": {
+            "id": 1,
+            "name": "Team Alpha",
+            "score": 2,
+            "logo_url": "/api/placeholder/80/80"
+          },
+          "team2": {
+            "id": 2,
+            "name": "Team Beta",
+            "score": 1,
+            "logo_url": "/api/placeholder/80/80"
+          },
+          "status": "Ongoing",
+          "type": "current"
+        },
+        {
+          "id": 2,
+          "title": "Quarter Finals - Game 2",
+          "round": "Quarter Finals",
+          "game": 2,
+          "team1": {
+            "id": 3,
+            "name": "Team Gamma",
+            "score": 3,
+            "logo_url": "/api/placeholder/80/80"
+          },
+          "team2": {
+            "id": 4,
+            "name": "Team Delta",
+            "score": 2,
+            "logo_url": "/api/placeholder/80/80"
+          },
+          "status": "Finished",
+          "type": "current"
+        }
+      ]
+    }
+  ]
+}
