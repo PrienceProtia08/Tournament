@@ -11,42 +11,42 @@
           "game": 1,
           "team1": {
             "id": 1,
-            "name": "Team Alpha",
+            "name": "Team ???",
             "score": 2,
             "logo_url": "/api/placeholder/80/80"
           },
           "team2": {
             "id": 2,
-            "name": "Team Beta",
+            "name": "Team ???",
             "score": 1,
             "logo_url": "/api/placeholder/80/80"
           },
-          "status": "Ongoing",
+          "status": "Upcoming",
           "type": "current",
           "video": {
             "type": "google_drive",
             "file_id": "1CPZeoss4RTMFkqEQbBItVn4j4zf4PEfw",
             "embed_html": "<iframe src='https://drive.google.com/file/d/1CPZeoss4RTMFkqEQbBItVn4j4zf4PEfw/preview' width='640' height='480' allow='autoplay'></iframe>",
             "watch_button": {
-              "text": "Watch Game",
+              "text": "Watch Trailer",
               "action": "embed_video"
             }
           }
         },
         {
           "id": 2,
-          "title": "Quarter Finals - Game 2",
+          "title": "7 Boracay Finals - Game Final",
           "round": "Quarter Finals",
           "game": 2,
           "team1": {
             "id": 3,
-            "name": "Team Gamma",
+            "name": "Team Nigel",
             "score": 3,
             "logo_url": "/api/placeholder/80/80"
           },
           "team2": {
             "id": 4,
-            "name": "Team Delta",
+            "name": "Team Jef",
             "score": 2,
             "logo_url": "/api/placeholder/80/80"
           },
