@@ -6,19 +6,19 @@
       "matches": [
         {
           "id": 1,
-          "title": "Quarter Finals - Game 1",
-          "round": "Quarter Finals",
+          "title": "Grade 8 - Game 1",
+          "round": "Quarter First",
           "game": 1,
           "team1": {
             "id": 1,
             "name": "Team ???",
-            "score": 2,
+            "score": 0,
             "logo_url": "/api/placeholder/80/80"
           },
           "team2": {
             "id": 2,
             "name": "Team ???",
-            "score": 1,
+            "score": 0,
             "logo_url": "/api/placeholder/80/80"
           },
           "status": "Upcoming",
@@ -41,13 +41,13 @@
           "team1": {
             "id": 3,
             "name": "Team Nigel",
-            "score": ,
+            "score": 1,
             "logo_url": "/api/placeholder/80/80"
           },
           "team2": {
             "id": 4,
             "name": "Team Jef",
-            "score": ,
+            "score": 0,
             "logo_url": "/api/placeholder/80/80"
           },
           "status": "Finished",
