@@ -41,13 +41,13 @@
           "team1": {
             "id": 3,
             "name": "Team Nigel",
-            "score": 3,
+            "score": ,
             "logo_url": "/api/placeholder/80/80"
           },
           "team2": {
             "id": 4,
             "name": "Team Jef",
-            "score": 2,
+            "score": ,
             "logo_url": "/api/placeholder/80/80"
           },
           "status": "Finished",
