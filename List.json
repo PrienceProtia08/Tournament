@@ -22,7 +22,16 @@
             "logo_url": "/api/placeholder/80/80"
           },
           "status": "Ongoing",
-          "type": "current"
+          "type": "current",
+          "video": {
+            "type": "google_drive",
+            "file_id": "1CPZeoss4RTMFkqEQbBItVn4j4zf4PEfw",
+            "embed_html": "<iframe src='https://drive.google.com/file/d/1CPZeoss4RTMFkqEQbBItVn4j4zf4PEfw/preview' width='640' height='480' allow='autoplay'></iframe>",
+            "watch_button": {
+              "text": "Watch Game",
+              "action": "embed_video"
+            }
+          }
         },
         {
           "id": 2,
@@ -42,7 +51,16 @@
             "logo_url": "/api/placeholder/80/80"
           },
           "status": "Finished",
-          "type": "current"
+          "type": "current",
+          "video": {
+            "type": "google_drive",
+            "file_id": "1CPZeoss4RTMFkqEQbBItVn4j4zf4PEfw",
+            "embed_html": "<iframe src='https://drive.google.com/file/d/1CPZeoss4RTMFkqEQbBItVn4j4zf4PEfw/preview' width='640' height='480' allow='autoplay'></iframe>",
+            "watch_button": {
+              "text": "Watch Replay",
+              "action": "embed_video"
+            }
+          }
         }
       ]
     }
