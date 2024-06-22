@@ -24,9 +24,9 @@
           "status": "Upcoming",
           "type": "current",
           "video": {
-            "type": "google_drive",
+            "type": "youtube",
             "file_id": "1CPZeoss4RTMFkqEQbBItVn4j4zf4PEfw",
-            "embed_html": "<iframe src='https://drive.google.com/file/d/1CPZeoss4RTMFkqEQbBItVn4j4zf4PEfw/preview' width='640' height='480' allow='autoplay'></iframe>",
+            "embed_html": "<iframe src='https://www.youtube.com/live/DSbLrs3Q_pY?si=MJK2CGoVOEXTSvdB' width='640' height='480' allow='autoplay'></iframe>",
             "watch_button": {
               "text": "Watch Trailer",
               "action": "embed_video"
